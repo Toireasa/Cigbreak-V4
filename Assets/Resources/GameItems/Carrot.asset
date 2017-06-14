@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e58a09105924f4699426a05f69b6d5, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  guid: c9587d5e-cb63-4e92-9bcb-4fa55f8561c6
+  itemType: 0
+  price: 0.75
+  health: 1
+  x: 0.7974236
+  y: 2.56
+  swipeSounds:
+  - {fileID: 8300000, guid: 89a7f1197cff2e4499c68209244431a9, type: 3}
+  tapSounds: []
+  materials:
+  - sprite: {fileID: 21300000, guid: 121bd9891df9a0f4aa9e4553a6d92afa, type: 3}
+    material: {fileID: 2100000, guid: 443da829109adb94f8ae698185ef091f, type: 2}
+  - sprite: {fileID: 21300000, guid: 57064997b3080d848a7739d1d448d9fa, type: 3}
+    material: {fileID: 2100000, guid: 760fcd158e1d8e3478bc12428b4c863c, type: 2}

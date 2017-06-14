@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfa068be9af80d48909816a4b4b42e5, type: 3}
+  m_Name: IceLollyReward
+  m_EditorClassIdentifier: 
+  vegID: ba4a7784-aa67-4df1-b429-9cf38686152c
+  vegName: Ice Lolly
+  icon: {fileID: 21300000, guid: 7e49b68960012344a8c2c3b3951c6a80, type: 3}
+  title: {fileID: 21300000, guid: f5f1ba45d96d92a4591a33faf17e4bbf, type: 3}
+  vegColor: {r: 0.94117653, g: 0, b: 0.8745099, a: 1}
+  model: {fileID: 154956, guid: 34bcb2843c8b84149b94c28608dafd47, type: 2}
+  descriptions:
+  - Making your own healthy, low-fat ice lollies is easier than you think and they
+    make a great craving distraction. Put a handful of berries into a blender, add
+    one banana and a dollop of yoghurt or some fruit juice and whizz till smooth.
+    Divide into lolly makers and freeze overnight.

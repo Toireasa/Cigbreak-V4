@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfa068be9af80d48909816a4b4b42e5, type: 3}
+  m_Name: CarrotReward
+  m_EditorClassIdentifier: 
+  vegID: 87baf868-dea0-49b0-bc5e-c5f15433473c
+  vegName: Carrot
+  icon: {fileID: 21300000, guid: 1d9a7f772faf22546b121f1091bf7304, type: 3}
+  title: {fileID: 21300000, guid: 4e7b61b12754edd469ac0745984d2502, type: 3}
+  vegColor: {r: 1, g: 0.48235297, b: 0, a: 1}
+  model: {fileID: 145468, guid: cf870e2144252ee408c78b9bcc77ea81, type: 2}
+  descriptions:
+  - Exceptionally rich source of carotenes and vitamin-A that  maintains good eye
+    health and supports sperm production
+  - Flavonoid compounds in carrots offer protection from skin, lung and oral cavity
+    cancers.
+  - Falcarinol in carrots destroys pre-cancerous cells in tumours
+  - Smokers who do not eat carrots have 3 times the risk of developing  lung cancer
+    compared with those who eat carrots

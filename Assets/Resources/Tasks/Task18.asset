@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 113b0964eed30d84d9cca0db36dd0cd6, type: 3}
+  m_Name: Task18
+  m_EditorClassIdentifier: 
+  m_ID: 18
+  m_Title: Go for a Walk
+  m_Coins: 3
+  m_Statement: "Take a walk in a nearby park.\r\n\r\nTake a photo and upload to your
+    favourite social \nmedia site."
+  m_Comment: 
+  m_TaskType: 3
+  m_Requirement: 0
+  m_FreeToPlay: 0

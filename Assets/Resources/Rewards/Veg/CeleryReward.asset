@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfa068be9af80d48909816a4b4b42e5, type: 3}
+  m_Name: CeleryReward
+  m_EditorClassIdentifier: 
+  vegID: 9fcb5d51-52d9-4a52-a877-e97ddababc5b
+  vegName: Celery
+  icon: {fileID: 21300000, guid: 18ade5e555b3fa148be5ff51007e2433, type: 3}
+  title: {fileID: 21300000, guid: 2622dc79f85f7e1499dae5ea79478deb, type: 3}
+  vegColor: {r: 0.49803925, g: 0.78823537, b: 0.14117648, a: 1}
+  model: {fileID: 107590, guid: 166c7d1df43c8924282806de31894a84, type: 2}
+  descriptions:
+  - 'Contains phthalides, flavonoids, and polyacetylenes: cancer-fighting  components
+    that detoxify carcinogens in your body'
+  - Contains pthalides to reduce blood pressure and therefore your risk of heart attack
+    or stroke
+  - Anti-inflammatory properties to reduce swelling and pain around the  joints and
+    lessen the severity of conditions like asthma
+  - Fiber in celery scrapes the cholesterol and other toxins out of your   bloodstream
+    and eliminates it from the body, a natural detox

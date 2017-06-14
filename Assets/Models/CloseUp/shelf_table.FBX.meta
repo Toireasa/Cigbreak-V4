@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 3415310cc66d961479877654c0461172
+timeCreated: 1448407199
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: book028
+    100002: book035
+    100004: book036
+    100006: book039
+    100008: book040
+    100010: book041
+    100012: book042
+    100014: book043
+    100016: book044
+    100018: book045
+    100020: book046
+    100022: book047
+    100024: book048
+    100026: book049
+    100028: book050
+    100030: book051
+    100032: book052
+    100034: bookshelf
+    100036: journal_second_down
+    100038: journal_second_up
+    100040: //RootNode
+    100042: table_journal2
+    400000: book028
+    400002: book035
+    400004: book036
+    400006: book039
+    400008: book040
+    400010: book041
+    400012: book042
+    400014: book043
+    400016: book044
+    400018: book045
+    400020: book046
+    400022: book047
+    400024: book048
+    400026: book049
+    400028: book050
+    400030: book051
+    400032: book052
+    400034: bookshelf
+    400036: journal_second_down
+    400038: journal_second_up
+    400040: //RootNode
+    400042: table_journal2
+    2300000: book028
+    2300002: book035
+    2300004: book036
+    2300006: book039
+    2300008: book040
+    2300010: book041
+    2300012: book042
+    2300014: book043
+    2300016: book044
+    2300018: book045
+    2300020: book046
+    2300022: book047
+    2300024: book048
+    2300026: book049
+    2300028: book050
+    2300030: book051
+    2300032: book052
+    2300034: bookshelf
+    2300036: journal_second_down
+    2300038: journal_second_up
+    2300040: table_journal2
+    3300000: book028
+    3300002: book035
+    3300004: book036
+    3300006: book039
+    3300008: book040
+    3300010: book041
+    3300012: book042
+    3300014: book043
+    3300016: book044
+    3300018: book045
+    3300020: book046
+    3300022: book047
+    3300024: book048
+    3300026: book049
+    3300028: book050
+    3300030: book051
+    3300032: book052
+    3300034: bookshelf
+    3300036: journal_second_down
+    3300038: journal_second_up
+    3300040: table_journal2
+    4300000: bookshelf
+    4300002: table_journal2
+    4300004: book028
+    4300006: journal_second_up
+    4300008: journal_second_down
+    4300010: book035
+    4300012: book036
+    4300014: book039
+    4300016: book040
+    4300018: book041
+    4300020: book042
+    4300022: book043
+    4300024: book044
+    4300026: book045
+    4300028: book046
+    4300030: book047
+    4300032: book048
+    4300034: book049
+    4300036: book050
+    4300038: book051
+    4300040: book052
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

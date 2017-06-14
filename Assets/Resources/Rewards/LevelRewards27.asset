@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eafeb40c1b09a6240937d8993a103e8a, type: 3}
+  m_Name: LevelRewards27
+  m_EditorClassIdentifier: 
+  badge: {fileID: 11400000, guid: f71cac79ce079824086346551181e6b4, type: 2}
+  coins: 0
+  powerupReward: []
+  vegRewards:
+  - vegReward: {fileID: 11400000, guid: 8555499eb4b560b4abe767450db9a642, type: 2}
+    count: 1

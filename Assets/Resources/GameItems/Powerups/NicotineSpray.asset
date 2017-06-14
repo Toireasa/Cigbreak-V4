@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83408a8c7a6c6654e8b8a1ce2ac7b802, type: 3}
+  m_Name: NicotineSpray
+  m_EditorClassIdentifier: 
+  guid: e56fb75f-aa95-4b60-8938-3daaf85c22f6
+  itemType: 2
+  price: 0
+  health: 0
+  x: 0.5
+  y: 2
+  swipeSounds: []
+  tapSounds:
+  - {fileID: 8300000, guid: bdbbf9b7a4615ad4e9ea8522430780f3, type: 3}
+  materials:
+  - sprite: {fileID: 21300000, guid: ec13b3c943498664896a8925a2f6e02f, type: 3}
+    material: {fileID: 2100000, guid: 62be5d62ff5b1c549805ef41b9f52e1a, type: 2}
+  title: NRT mouthspray
+  descrition: "Mouth spray helps your cravings by delivering a quick shot of nicotine
+    into your mouth.  \r\nIn game, this power-up clears the screen of smoke and restores
+    your health."
+  sprite: {fileID: 21300000, guid: 0dd9a1f3f7b608f4abbcd0411906e675, type: 3}
+  coinPrice: 5
+  effectMethod: Heal

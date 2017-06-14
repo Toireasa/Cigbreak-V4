@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 43b52f5254dfc3e4cb9429a25f953068
+timeCreated: 1442846163
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: silver_coin
+    100004: silver_coin001
+    100006: silver_coin002
+    100008: silver_coin003
+    100010: silver_coin004
+    100012: silver_coin005
+    100014: silver_coin006
+    100016: silver_coin007
+    100018: silver_coin008
+    100020: silver_coin009
+    100022: silver_coin010
+    100024: silver_coin011
+    100026: silver_coin012
+    100028: silver_coin013
+    100030: silver_coin014
+    100032: silver_coin015
+    100034: silver_coin016
+    100036: treasure_chest_down
+    100038: treasure_chest_up
+    400000: //RootNode
+    400002: silver_coin
+    400004: silver_coin001
+    400006: silver_coin002
+    400008: silver_coin003
+    400010: silver_coin004
+    400012: silver_coin005
+    400014: silver_coin006
+    400016: silver_coin007
+    400018: silver_coin008
+    400020: silver_coin009
+    400022: silver_coin010
+    400024: silver_coin011
+    400026: silver_coin012
+    400028: silver_coin013
+    400030: silver_coin014
+    400032: silver_coin015
+    400034: silver_coin016
+    400036: treasure_chest_down
+    400038: treasure_chest_up
+    2300000: silver_coin
+    2300002: silver_coin001
+    2300004: silver_coin002
+    2300006: silver_coin003
+    2300008: silver_coin004
+    2300010: silver_coin005
+    2300012: silver_coin006
+    2300014: silver_coin007
+    2300016: silver_coin008
+    2300018: silver_coin009
+    2300020: silver_coin010
+    2300022: silver_coin011
+    2300024: silver_coin012
+    2300026: silver_coin013
+    2300028: silver_coin014
+    2300030: silver_coin015
+    2300032: silver_coin016
+    2300034: treasure_chest_down
+    2300036: treasure_chest_up
+    3300000: silver_coin
+    3300002: silver_coin001
+    3300004: silver_coin002
+    3300006: silver_coin003
+    3300008: silver_coin004
+    3300010: silver_coin005
+    3300012: silver_coin006
+    3300014: silver_coin007
+    3300016: silver_coin008
+    3300018: silver_coin009
+    3300020: silver_coin010
+    3300022: silver_coin011
+    3300024: silver_coin012
+    3300026: silver_coin013
+    3300028: silver_coin014
+    3300030: silver_coin015
+    3300032: silver_coin016
+    3300034: treasure_chest_down
+    3300036: treasure_chest_up
+    4300000: treasure_chest_down
+    4300002: treasure_chest_up
+    4300004: silver_coin
+    4300006: silver_coin001
+    4300008: silver_coin002
+    4300010: silver_coin003
+    4300012: silver_coin004
+    4300014: silver_coin005
+    4300016: silver_coin006
+    4300018: silver_coin007
+    4300020: silver_coin008
+    4300022: silver_coin009
+    4300024: silver_coin010
+    4300026: silver_coin011
+    4300028: silver_coin012
+    4300030: silver_coin013
+    4300032: silver_coin014
+    4300034: silver_coin015
+    4300036: silver_coin016
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

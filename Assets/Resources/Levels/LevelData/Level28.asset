@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1772858a2fe24874d9d0a11576f23418, type: 3}
+  m_Name: Level28
+  m_EditorClassIdentifier: 
+  levelID: Level 28
+  m_FreeToPlay: 0
+  music: {fileID: 8300000, guid: aa8646cb8953d0d4c9af7b39d936af88, type: 3}
+  cigaretteTarget: 58
+  tutorial: {fileID: 0}
+  minTorque: -0.3
+  maxTorque: 0.3
+  levelRewards: {fileID: 11400000, guid: cd875d10283f79046998fa96aff35708, type: 2}
+  noMapExit: 0
+  forceMapExit: 0
+  levelObjects:
+  - itemData: {fileID: 11400000, guid: 1f2a9d8aa90be914a921ad8aa2947bef, type: 2}
+    spawnChance: 0.35
+  - itemData: {fileID: 11400000, guid: f90f8b1b0da4f004bb7d4351b48e44ea, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 6b1c7d362e7a159499a4bbd62946f2e1, type: 2}
+    spawnChance: 0.2
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  - itemData: {fileID: 11400000, guid: 4885c03a8ab73524ba9875feba406273, type: 2}
+    spawnChance: 0.05
+  spawnTimers:
+    spawnTimers:
+    - firstSpawnDelay: 0
+      timeBeforeRepeating: 0.923

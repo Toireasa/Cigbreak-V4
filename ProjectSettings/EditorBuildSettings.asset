@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScreen.unity
+    guid: 3eb30b2ded556c3489b9d4db41fde9be
+  - enabled: 1
+    path: Assets/Scenes/CloseupMap01.unity
+    guid: 25dad36fcea4a024bb69ee0f466a60ec
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: dc97dc5fbf5362c429f7c4d3620d6004
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 3b448a888962d2d45b60b134d72905cd
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 858254b77ebfc554ea5a73633faf3ed8
+  - enabled: 1
+    path: Assets/Scenes/Journal.unity
+    guid: e6e312a72dea0f04d98ebe28ea9cdc98
+  - enabled: 1
+    path: Assets/Scenes/MarketScene.unity
+    guid: 98a984a087afc7744a2ec74bfb1cbd59
+  - enabled: 1
+    path: Assets/Scenes/BedRoomSceen.unity
+    guid: db8d08ce098c11048a33e615f391f9d7
+  - enabled: 1
+    path: Assets/Scenes/LoungeScene.unity
+    guid: bd05de2f85cfd3c4da56974480baac79
+  - enabled: 1
+    path: Assets/Scenes/BusStop.unity
+    guid: 410bce78ccae0b749b8f81625b9da9f8

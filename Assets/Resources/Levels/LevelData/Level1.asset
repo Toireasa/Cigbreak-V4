@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1772858a2fe24874d9d0a11576f23418, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelID: Level 1
+  m_FreeToPlay: 1
+  music: {fileID: 8300000, guid: e9e69b79101a0a246a5e276352a5e7ec, type: 3}
+  cigaretteTarget: 5
+  tutorial: {fileID: 11400000, guid: b96c89982b957e54a9616c156f559c72, type: 2}
+  minTorque: -0.1
+  maxTorque: 0.1
+  levelRewards: {fileID: 11400000, guid: bb6c5fa2478e75749ad4456fe8c453b2, type: 2}
+  noMapExit: 0
+  forceMapExit: 0
+  levelObjects:
+  - itemData: {fileID: 11400000, guid: 1f2a9d8aa90be914a921ad8aa2947bef, type: 2}
+    spawnChance: 1
+  spawnTimers:
+    spawnTimers:
+    - firstSpawnDelay: 0
+      timeBeforeRepeating: 1.5

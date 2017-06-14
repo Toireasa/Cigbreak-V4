@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7af52304b19e59488ef85a7062de024, type: 3}
+  m_Name: SmellBadge
+  m_EditorClassIdentifier: 
+  badgeID: BadgeSmell
+  title: Smell Better
+  icon: {fileID: 0}
+  coinsRequired: 109
+  description: Improve your sense of smell and taste that have been dulled by the
+    hundreds of toxic chemicals found in cigarettes.

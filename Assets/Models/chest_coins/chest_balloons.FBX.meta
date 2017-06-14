@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 90d5ad18bc347434bba58a4464f904a2
+timeCreated: 1449658753
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ballon
+    100002: ballon001
+    100004: ballon002
+    100006: ballon003
+    100008: ballon004
+    100010: ballon005
+    100012: ballon006
+    100014: ballon007
+    100016: ballon008
+    100018: //RootNode
+    100020: treasure_chest_down
+    100022: treasure_chest_up
+    400000: ballon
+    400002: ballon001
+    400004: ballon002
+    400006: ballon003
+    400008: ballon004
+    400010: ballon005
+    400012: ballon006
+    400014: ballon007
+    400016: ballon008
+    400018: //RootNode
+    400020: treasure_chest_down
+    400022: treasure_chest_up
+    2300000: ballon
+    2300002: ballon001
+    2300004: ballon002
+    2300006: ballon003
+    2300008: ballon004
+    2300010: ballon005
+    2300012: ballon006
+    2300014: ballon007
+    2300016: ballon008
+    2300018: treasure_chest_down
+    2300020: treasure_chest_up
+    3300000: ballon
+    3300002: ballon001
+    3300004: ballon002
+    3300006: ballon003
+    3300008: ballon004
+    3300010: ballon005
+    3300012: ballon006
+    3300014: ballon007
+    3300016: ballon008
+    3300018: treasure_chest_down
+    3300020: treasure_chest_up
+    4300000: treasure_chest_down
+    4300002: treasure_chest_up
+    4300004: ballon
+    4300006: ballon001
+    4300008: ballon002
+    4300010: ballon003
+    4300012: ballon004
+    4300014: ballon005
+    4300016: ballon006
+    4300018: ballon007
+    4300020: ballon008
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

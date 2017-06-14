@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 113b0964eed30d84d9cca0db36dd0cd6, type: 3}
+  m_Name: Task16
+  m_EditorClassIdentifier: 
+  m_ID: 16
+  m_Title: Sing a Song
+  m_Coins: 2
+  m_Statement: "Name a song you like that is slow or\r\nmid-tempo that you can sing
+    in your head."
+  m_Comment: 
+  m_TaskType: 1
+  m_Requirement: 0
+  m_FreeToPlay: 0

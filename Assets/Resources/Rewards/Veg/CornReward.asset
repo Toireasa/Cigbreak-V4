@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfa068be9af80d48909816a4b4b42e5, type: 3}
+  m_Name: CornReward
+  m_EditorClassIdentifier: 
+  vegID: 4f83f10b-9610-4d10-8cfb-4dd9b61b349a
+  vegName: Corn
+  icon: {fileID: 21300000, guid: 567deac6b8763df4e96e86947a40740d, type: 3}
+  title: {fileID: 21300000, guid: f5f8c580ad96de94cbd59d24db0863fe, type: 3}
+  vegColor: {r: 1, g: 0.80689657, b: 0, a: 1}
+  model: {fileID: 162980, guid: b6b50f0546331a64695624ee377fafae, type: 2}
+  descriptions:
+  - "Corn\u2019s high ratio of insoluble-to-soluble fiber supports the growth of friendly
+    bacteria in our large intestine. A bacteria that transforms corn fiber into short
+    chain fatty acids (SCFAs) that feed energy to our intestinal cells and help lower
+    our risk of colon cancer."

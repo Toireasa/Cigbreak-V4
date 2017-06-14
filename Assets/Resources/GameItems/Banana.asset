@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e58a09105924f4699426a05f69b6d5, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  guid: 5215c578-0769-4973-bcd9-5b1b46e7d1e3
+  itemType: 0
+  price: 0.75
+  health: 1
+  x: 0.94
+  y: 2.55
+  swipeSounds:
+  - {fileID: 0}
+  tapSounds: []
+  materials:
+  - sprite: {fileID: 21300000, guid: fe897bb7b47346649bea1f7d0ff4e265, type: 3}
+    material: {fileID: 2100000, guid: 297b8d501f15c8a428c6a3b52e337320, type: 2}
+  - sprite: {fileID: 21300000, guid: 89e62801cbd22094cb58dcda21d50d15, type: 3}
+    material: {fileID: 2100000, guid: c29425ed1042ff54098b4025e00c0d1b, type: 2}

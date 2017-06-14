@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfa068be9af80d48909816a4b4b42e5, type: 3}
+  m_Name: Lollipop
+  m_EditorClassIdentifier: 
+  vegID: c25ca2c0-907e-4fea-a0f7-a53710e41fb0
+  vegName: Lollipop
+  icon: {fileID: 21300000, guid: 05c0a442788624a43830c26ea857d7b3, type: 3}
+  title: {fileID: 21300000, guid: f5f1ba45d96d92a4591a33faf17e4bbf, type: 3}
+  vegColor: {r: 1, g: 0, b: 1, a: 1}
+  model: {fileID: 146022, guid: eefd661fb0e473340a5e7f680ff436c5, type: 2}
+  descriptions:
+  - Suck on a sugar-free lollipop when you miss the feeling of having something in
+    your mouth
+  - "\u2018Pandora\u2019s pops\u2019 are organic hard candy lollipops that include
+    5 herbs known to support smoking cessation but contain no nicotine and are not
+    addictive (order online)"
+  - "\u2018Pandora\u2019s pops\u2019 are organic hard candy lollipops that include
+    5 herbs known to support smoking cessation but contain no nicotine and are not
+    addictive (order online)"
+  - "\u2018Smoking \u2018sucks\u2019, all-natural lollipops developed by healthcare
+    professionals contain L-tryptophan to curb nicotine cravings and relieve both
+    the oral and the nicotine addiction habits"

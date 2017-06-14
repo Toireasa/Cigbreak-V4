@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b1d8fcd9127b41a08dfe3af2be6bd, type: 3}
+  m_Name: CigarTutorial
+  m_EditorClassIdentifier: 
+  tutorialMusic: {fileID: 8300000, guid: a422408671415f14ba54794e37dbddc9, type: 3}
+  instructions:
+  - gameItem: {fileID: 11400000, guid: f90f8b1b0da4f004bb7d4351b48e44ea, type: 2}
+    instructionBackground: {fileID: 21300000, guid: 2765d6990961a2f4ebd3346ea81b9f81,
+      type: 3}
+    instruction: Swipe Twice
+    expectedAction: 1
+  powerupItem: {fileID: 0}
+  showSmoke: 0

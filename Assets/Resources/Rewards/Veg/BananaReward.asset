@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bfa068be9af80d48909816a4b4b42e5, type: 3}
+  m_Name: BananaReward
+  m_EditorClassIdentifier: 
+  vegID: cedb880a-db8b-4dd4-bcd0-f4974fdd8ac0
+  vegName: Banana
+  icon: {fileID: 21300000, guid: 1c6ec3c70d6e63c458fa5041ff7cbbac, type: 3}
+  title: {fileID: 21300000, guid: f5f8c580ad96de94cbd59d24db0863fe, type: 3}
+  vegColor: {r: 1, g: 0.935, b: 0, a: 1}
+  model: {fileID: 155864, guid: bc1239fc895897542b926b90cd8dec16, type: 2}
+  descriptions:
+  - High in potassium and low in salt, bananas help to lower your blood pressure which
+    protects against heart attack and stroke
+  - 'Contain iron that will strengthen your blood and relieve anemia  '
+  - Contain high levels of tryptophan, which is converted into serotonin -- the happy-mood
+    brain neurotransmitter
+  - High levels of vitamin B-6 aid weight loss, strengthen your nervous system and
+    improve production of white blood cells

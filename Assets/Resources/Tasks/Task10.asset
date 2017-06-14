@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 113b0964eed30d84d9cca0db36dd0cd6, type: 3}
+  m_Name: Task10
+  m_EditorClassIdentifier: 
+  m_ID: 10
+  m_Title: Stop Smoking Help
+  m_Coins: 2
+  m_Statement: "Text support can double your chances of quitting \nGoogle \u2018Free
+    text support to quit smoking\u2019 "
+  m_Comment: 
+  m_TaskType: 3
+  m_Requirement: 0
+  m_FreeToPlay: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83408a8c7a6c6654e8b8a1ce2ac7b802, type: 3}
+  m_Name: NicotineGum
+  m_EditorClassIdentifier: 
+  guid: f626c4cd-3fdb-4bc9-b69b-804bbf84bd32
+  itemType: 2
+  price: 0
+  health: 0
+  x: 1.46
+  y: 2
+  swipeSounds: []
+  tapSounds:
+  - {fileID: 0}
+  materials:
+  - sprite: {fileID: 21300000, guid: 5f4f3d403dfdc1e46b30f3092782466a, type: 3}
+    material: {fileID: 2100000, guid: 54f812904c8be284cb6950f397657466, type: 2}
+  - sprite: {fileID: 21300000, guid: de9803a37f2f6eb4482ed9d8ff8e0675, type: 3}
+    material: {fileID: 2100000, guid: 4e122f0769581694e9b44d7e2633d9c5, type: 2}
+  title: NRT gum
+  descrition: "Gum delivers a controlled amount of nicotine into your body over time
+    \u2013 enough to satisfy the craving, but not as much as a real cigarette\r.\n\r\nIn
+    game, gum attracts cigarettes to give you a giant points boost."
+  sprite: {fileID: 21300000, guid: e579feb01d188834a82548a6552f3230, type: 3}
+  coinPrice: 5
+  effectMethod: Gum
